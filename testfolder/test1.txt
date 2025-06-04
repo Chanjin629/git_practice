@@ -1,8 +1,6 @@
 hello world 1
 hello world 2
 hello world 3
-<<<<<<< HEAD
-hello world 6
-=======
+hello world 5
 hello world 7
->>>>>>> 208c91f72ebf57b02b3962d692b579bc6d744efc
+
