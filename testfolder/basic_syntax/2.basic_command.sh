@@ -69,3 +69,9 @@ git tag
 git branch 브랜치명
 
 # 새로운 작업 시작시에, main을 최신화 한 후에 main 을 기준으로 branch 생성
+
+# 브랜치생성과 전환을 동시에
+git checkout -b 브랜치명
+
+# 로컬브랜치 삭제(원격은 별도삭제)
+git branch -D 브랜치명
